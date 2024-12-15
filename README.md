@@ -12,10 +12,10 @@
 
 <h2> Connect with me:</h2>
 
-[<img align="left" alt="Ando | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Ando3398 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Andorenis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Andocarbajal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/Ando
+[twitter]: https://twitter.com/Ando3398
 [instagram]: https://www.instagram.com/Andocarbajal
 [linkedin]: https://linkedin.com/in/Andorenis
