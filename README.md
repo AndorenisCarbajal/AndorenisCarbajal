@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1>Hi, I'm Andorenis, an <a href="https://linkedin.com/in/Andorenis">IT Professional</a>☺</h1>
 
-<!--
-**AndorenisCarbajal/AndorenisCarbajal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Information Technology Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/AndorenisCarbajal/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/AndorenisCarbajal/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/AndorenisCarbajal/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/AndorenisCarbajal/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/AndorenisCarbajal/azure-network-protocols)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> Connect with me:</h2>
+
+[<img align="left" alt="Ando | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Andorenis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Andocarbajal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://twitter.com/Ando
+[instagram]: https://www.instagram.com/Andocarbajal
+[linkedin]: https://linkedin.com/in/Andorenis
